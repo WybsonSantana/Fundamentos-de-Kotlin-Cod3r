@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.estruturasDeControle
+package conceitosBasicos.estruturasDeControle
 
 fun main() {
     var opcao: Int = -1

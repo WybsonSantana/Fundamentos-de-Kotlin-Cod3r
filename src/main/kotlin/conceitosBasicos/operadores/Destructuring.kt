@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.operadores
+package conceitosBasicos.operadores
 
 data class Carro(
     val marca: String,

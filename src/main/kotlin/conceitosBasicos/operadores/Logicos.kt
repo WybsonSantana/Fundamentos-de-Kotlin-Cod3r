@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.operadores
+package conceitosBasicos.operadores
 
 fun main() {
     val executouTrabalho1: Boolean = true

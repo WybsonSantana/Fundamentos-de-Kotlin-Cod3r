@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.operadores
+package conceitosBasicos.operadores
 
 fun main() {
     val (v1, v2, v3, v4) = listOf(3, 5, 1, 15)

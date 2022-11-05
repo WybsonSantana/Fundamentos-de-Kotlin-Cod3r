@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.estruturasDeControle
+package conceitosBasicos.estruturasDeControle
 
 fun main() {
     var numero: Int = 0

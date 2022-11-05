@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.estruturasDeControle
+package conceitosBasicos.estruturasDeControle
 
 fun main() {
     val nota = 8.3

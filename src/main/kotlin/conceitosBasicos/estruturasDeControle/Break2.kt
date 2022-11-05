@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.estruturasDeControle
+package conceitosBasicos.estruturasDeControle
 
 fun main() {
     externo@ for (i in 1..15) {

@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.operadores
+package conceitosBasicos.operadores
 
 fun obterResultado(nota: Double): String =
     if (nota >= 7) "Aprovado!" else "Reprovado!"

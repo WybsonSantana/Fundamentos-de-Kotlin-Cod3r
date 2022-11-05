@@ -1,10 +1,10 @@
 package conceitosBasicos.introducao.explorandoImports
 
-import conceitosBasicos.introducao.explorandoImports.pacoteA.simplesFuncao as funcaoSimples
-import conceitosBasicos.introducao.explorandoImports.pacoteA.Objeto
-
 import conceitosBasicos.introducao.explorandoImports.pacoteA.FaceMoeda.CARA
-import conceitosBasicos.introducao.explorandoImports.pacoteB.*
+import conceitosBasicos.introducao.explorandoImports.pacoteA.Objeto
+import conceitosBasicos.introducao.explorandoImports.pacoteB.somar
+import conceitosBasicos.introducao.explorandoImports.pacoteB.subtrair
+import conceitosBasicos.introducao.explorandoImports.pacoteA.simplesFuncao as funcaoSimples
 
 fun main() {
     kotlin.io.println(funcaoSimples("Kotlin 1.6"))

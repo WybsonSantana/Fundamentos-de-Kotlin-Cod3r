@@ -1,4 +1,4 @@
-package conceitosBasicos.introducao.operadores
+package conceitosBasicos.operadores
 
 fun main() {
     var num1: Int = 1
